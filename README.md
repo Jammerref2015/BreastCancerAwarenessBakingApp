@@ -104,12 +104,10 @@ Github
 Heroku
 Fontawesome
 
-## Validator Testing
-
-
 
 ## Unfixed Bugs
 
+Carousel on index.html - carousel images do not currently scroll correctly, debugging took place, and bug will be fixed in a future implementation.
 
 
 ## Deployment
