@@ -346,7 +346,6 @@ form p {
     text-align: center
 }
 
-<<<<<<< HEAD
 /* MEDIA QUERIES */
 
 
@@ -393,16 +392,8 @@ form p {
         font-size: 1rem;
         width: 100%;
     }
-  }
 
 
-
-
-
-
-
-
-=======
 .link {
     color: #00525d;
     font-weight: 800;
@@ -419,4 +410,3 @@ form p {
     height: 400px;
     object-fit: cover;
 }
->>>>>>> 65113621d8d332461a1615d899b8e250d171f6e9
